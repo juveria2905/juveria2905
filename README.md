@@ -5,3 +5,5 @@
 🔧 Skills: Python, Java, C++, ML, Pandas, NumPy, Django  
 🚀 Currently building ML projects and solving DSA problems  
 📫 Open to Internship Opportunities
+✨ Actively looking for AIML internships and learning opportunities
+
